@@ -250,7 +250,7 @@ Based on the dashboard analysis:
 
 ### Overview Dashboard
 
-![Overview Dashboard](images/Overview dashboard.png)
+![Overview Dashboard](https://github.com/coderrzkaran18/insurance-claims-policy-analytics/blob/main/Overview%20dashboard.png)
 
 ---
 
