@@ -290,12 +290,3 @@ Interactive Dashboard
  Power BI Service
       ↓
 Scheduled Refresh + RLS
-
-
-## 👨‍💻 Author
-
-**Karan Kumar Chauhan**
-
-B.Tech – CSE(Data Science)
-
-**Skills:** SQL · MySQL · Python · Power BI · DAX · Power Query · Excel · Data Analytics
