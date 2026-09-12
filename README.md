@@ -256,7 +256,7 @@ Based on the dashboard analysis:
 
 ### Detail Table
 
-![Detail Table](images/detail-table.png)
+![Detail Table](https://github.com/coderrzkaran18/insurance-claims-policy-analytics/blob/main/Detail%20table.png)
 
 ---
 
