@@ -262,7 +262,7 @@ Based on the dashboard analysis:
 
 ### Sentiment Analysis
 
-![Sentiment Analysis](images/sentiment-analysis.png)
+![Sentiment Analysis](https://github.com/coderrzkaran18/insurance-claims-policy-analytics/blob/main/Sentiment%20analysis.png)
 
 ---
 
