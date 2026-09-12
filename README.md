@@ -250,7 +250,7 @@ Based on the dashboard analysis:
 
 ### Overview Dashboard
 
-![Overview Dashboard](Overview dashboard.png)
+![Overview Dashboard](images/Overview dashboard.png)
 
 ---
 
